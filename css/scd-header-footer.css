@@ -90,7 +90,7 @@ header .inner {
 .gnb{
     display:flex;
     gap:35px;
-    background:aqua;
+    background:palegreen;
 }
 
 .gnb .lang-btn{
